@@ -1,0 +1,11 @@
+{
+    "name": "sharjeelz/sentry-laravel-integraton-api",
+    "description": "A package for sentry-laravel-integation",
+    "autoload": {
+        "psr-4": {
+            "sharjeelz\\SentryLaravelIntegratonApi\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
